@@ -1,0 +1,4 @@
+\select@language {english}
+\contentsline {section}{Introduction}{2}{section*.2}
+\contentsline {section}{Conclusion}{3}{section*.3}
+\contentsline {section}{R\'ef\'erences}{3}{section*.3}
